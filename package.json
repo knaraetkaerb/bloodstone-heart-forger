@@ -1,0 +1,36 @@
+{
+  "name": "bloodstone-heart-forger",
+  "version": "1.0.0",
+  "description": "Enables the development of pet care and management apps, providing tools for pet owners and veterinarians to monitor and maintain animal health and wellness.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/bloodstone-heart-forger"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "labradorite-mystery-seeker": "1.0.0",
+    "charoite-truth-revealer": "1.0.0",
+    "jest": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "solc": "1.0.0",
+    "validator": "1.0.0",
+    "chalk": "1.0.0",
+    "web3-react": "1.0.0",
+    "react-dom": "1.0.0",
+    "express": "1.0.0",
+    "multer": "1.0.0",
+    "moment": "1.0.0",
+    "mocha": "1.0.0",
+    "lodash": "1.0.0",
+    "cheerio": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "axios": "1.0.0"
+  }
+}
